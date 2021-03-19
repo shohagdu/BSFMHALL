@@ -1,0 +1,2817 @@
+@media only screen and (min-width : 320px) and (max-width : 360px){
+	.sign-in input{
+		width: 100%;
+	}
+	
+
+	
+}
+@media only screen and (min-width : 800px) and (max-width : 1200px){
+	.common-classes-rg input{
+		width: 90%;
+	}
+
+	.banner-image-container{
+		height: auto;
+	}
+}
+@media only screen and (min-width : 481px) and (max-width : 1024px){
+
+	.back-color{
+		display: none;
+	}
+	.post_container_design .image_leftside_bar{
+		display: none;
+	}
+	.post_content_right_bar{
+		width: 100%!important;
+		padding: 0px 15px;
+	}
+	.post_container_design{
+		height: 240px;
+	}
+	.three-box-tab-container #box-tab-2.orange-box-inner {
+		float: left;
+		height: 556px;
+	}
+	#top-right-container{
+		margin-top: 30px;
+	}
+	#mobile-menu-container{
+		margin-top: 35px;
+	}
+	.top-right-menu-container {
+		float: left;
+		width: calc(100% - 73px);
+		margin-top: -2px;
+	}
+	.mobile-menu-and-search-container{
+		float: right;
+		margin-top: 0;
+		width: 73px;
+	}
+	#logo-container{
+		margin-top: -5px;
+	}
+
+	.phn-no-small{
+		margin-right: 10px;
+		margin-top: 0;
+	}
+	.mobile-top-right-phone-container{
+		float: right;
+	}
+	.mobile-search-input{
+		padding-right: 10px;
+	}
+	.mobile-search-input{
+		display: none;
+	}
+	.mobile-top-right-phone-container span {
+		font-size: 1.2em;
+	}
+	.mobile-top-right-phone-container span {
+		line-height: 20px;
+	}
+
+}
+
+
+
+@media only screen and (min-width : 320px) and (max-width : 480px) {
+	body {
+		font-size: 12px;
+	}
+
+	.post_container_design .image_leftside_bar{
+		display: none;
+	}
+	.post_content_right_bar{
+		width: 100%!important;
+		padding: 0px 15px;
+	}
+	.post_container_design{
+		height: 240px;
+	}
+
+	a.home-testimonial.home-whats-happening{
+		left: 3%;
+	}
+	.home-testimonial-box .home-testimonial-content{
+		margin-top: 2%;
+	}
+	.submit-schedule-doctor-button{
+		width:100%;
+		float:left;
+	}
+	.second-appointment{
+		padding-top: 0;
+	}
+	.three-box-tab-container #box-tab-2.orange-box-inner {
+		float: left;
+		height: 556px;
+	}
+	.sidebar-item #sidebar-events-container-publications{
+		margin-bottom: 35px;
+	}
+	.three-box-tab-container #box-tab-2{
+		height: 640px;
+	}
+	.three-box-tab-container #box-tab-2.box-yellow{
+		height: 620px;
+	}
+	.second-appointment textarea.schedule-patient-message{
+		width: 100%;
+		margin-bottom: -10px;
+	}
+	#pjax_home_consultants_index> div:nth-child(4){
+		display: none;
+	}
+	#pjax_home_consultants_index> div:nth-child(5){
+		display: none;
+	}
+	input.form-control.schedule-date{
+		width: 100%;
+	}
+	.box-form-input{
+		width: 100%;
+	}
+	.second-appointment .sbHolder{
+		width: 100%;
+	}
+	.search_slider{
+		margin-top: 70px;
+	}
+	.mobile-top-right-phone-container span {
+		font-size: 1.2em;
+	}
+
+	.mobile-top-right-phone-container span {
+		line-height: 20px;
+		margin-top: -2px;
+	}
+	.mobile-top-right-phone-container i{
+		margin-right: 1px;
+		line-height: 18px;
+	}
+	.top-right-menu-container {
+		float: left;
+		width: calc(100% - 70px);
+		margin-top: -2px;
+	}
+	.mobile-menu-and-search-container{
+		float: right;
+		margin-top: 0;
+		width: 70px;
+	}
+	.mobile-search-input{
+		display: none;
+	}
+	#top-right-container{
+		margin-top: 20px;
+	}
+	#logo-container {
+		margin-top: 4px;
+	}
+
+
+	.home-consultans-container{
+		height: auto;
+	}
+	.home-consultants-box{
+		width: 33.3%;
+	}
+	.home-consultants-box:nth-child(3){
+		border-right: 1px solid rgba(200,200,200,.6);
+	}
+	.box-icon-doctor {
+		/*background-image: none;*/
+		background-image: url('../images/box-icons/doctor.png');
+		height: 30px;
+		width: 40px;
+		background-repeat: no-repeat;
+		background-size: cover;
+		float: left;
+	}
+
+	.box-icon-schedule {
+		/*background-image: none;*/
+		background-image: url('../images/box-icons/schedule.png');
+		height: 30px;
+		width: 40px;
+		background-repeat: no-repeat;
+		background-size: cover;
+		float: left;
+	}
+
+	.box-icon-query {
+
+		height: 30px;
+		width: 40px;
+		background-repeat: no-repeat;
+		background-size: cover;
+		float: left;
+	}
+
+	.three-box-tab-container {
+		margin-left: 0;
+		margin-top: 15px;
+		width: 100%;
+	}
+
+	.three-box-tab-container {
+		height: auto;
+	}
+
+	.patients-visitors-page h2 {
+		float: left;
+		margin-bottom: 10px;
+		margin-top: 15px;
+	}
+
+	.patients-visitors-page p {
+		float: left;
+	}
+
+	.patients-visitors-page .list-inline-patients {
+		float: left;
+	}
+
+	.inner-sidetab-opener-orange #box-tab-2 {
+		height: 355px;
+	}
+
+	.inner-sidetab-opener-orange {
+		width: 100%;
+	}
+
+	.sidebar-item.patient-mobile-bottom-gap {
+		margin-bottom: 40px !important;
+	}
+
+	.left-appointment .sbHolder {
+		width: 100%;
+	}
+
+	/*.customer-options-container .three-box-tab-container #box-tab-2 {*/
+		/*height: 342px;*/
+	/*}*/
+
+	.right-query input {
+		width: 100%;
+	}
+
+	.submit-query-content a {
+		width: 100%;
+		margin-top: 15px;
+	}
+
+	.right-query label {
+		margin-left: 0;
+	}
+
+	#box-tab-3 {
+		height: 380px;
+		width: 100%;
+		padding-right: 10px;
+		padding-left: 18px;
+	}
+
+	#tab-box-1-yellow .appointement-form .left-appointment .sbHolder {
+		width: 100%;
+	}
+
+	#tab-box-1-yellow .appointement-form .second-appointment .sbHolder {
+		width: 100%;
+	}
+
+	#tab-box-1-yellow .appointement-form .second-appointment input {
+		width: 100% !important;
+	}
+
+	#layerslider {
+		height: 200px;
+	}
+
+	#inner-post-container .sidebar-item {
+		width: 100%;
+		margin: 20px 0 20px 0;
+	}
+
+	#slider-wrapper {
+		height: 200px;
+	}
+
+	.ls-slide .ls-l {
+		display: none;
+	}
+
+	.lan-switcher {
+		padding-left: 5px;
+	}
+
+	.phn-no-small {
+		margin-right: 10px;
+	}
+
+	.promo-box-left {
+		width: 40%;
+	}
+
+	.promo-box-right {
+		width: 60%;
+	}
+	.promo-box-bg.home-emergency{
+		float: left;
+		width: 100%;
+	}
+	.promo-service-top{
+		margin-bottom: 10px;
+	}
+
+	.slide-item img {
+		height: 200px;
+	}
+
+	.faq-sec-row {
+		padding-top: 17%;
+	}
+
+	.promotion-tab-list li a {
+		font-size: 0.875em;
+		padding: 9px;
+	}
+
+	.banner-image-container img {
+		height: 180px;
+	}
+
+	.content p {
+		font-size: 1em;
+	}
+
+	h4.widget-title {
+		font-size: 1.2em;
+		color: #ff5722;
+	}
+
+	.sidebar-has-let-bar-wrap h6 {
+		font-size: 1em;
+	}
+
+	.content .header {
+		font-size: 1.2em;
+	}
+
+	.general-page h3 {
+		font-size: 1.2em;
+	}
+
+	.common-btn {
+		font-size: 1em;
+	}
+
+	.contact-input {
+		font-size: 1em;
+		width: 100%;
+		float: left;
+	}
+
+	.bread-crumb-list li a {
+		font-size: 1.2em;
+	}
+
+	.bread-crumb-list li.active a {
+		font-size: 1.3em;
+	}
+
+	.sidebar-item .amb-caller {
+		font-size: 1em;
+	}
+
+	.sidebar-item p {
+		font-size: 1em;
+	}
+
+	.view-all-partner {
+		font-size: 1em;
+	}
+
+	.doc-serach-title {
+		font-size: 1em;
+	}
+
+	.doc-serach-box label {
+		font-size: 0.875em;
+	}
+
+	.doc-alpha-serach-box h5 {
+		font-size: 0.875em;
+	}
+
+	.doc-alphabet-list a {
+		font-size: 0.875em;
+	}
+
+	.doc-box-submit-btn {
+		font-size: 0.875em;
+	}
+
+	.general-page ul li {
+		font-size: 0.875em;
+	}
+
+	.inner-post-sub-title-publications {
+		left: 32%;
+	}
+
+	.banner-image-container-full-width {
+		height: 200px;
+	}
+
+	.banner-image-container-full-width img {
+		height: 200px;
+	}
+
+	.regi2 {
+		display: block;
+	}
+
+	.regi {
+		display: none;
+	}
+
+	.common-classes-rg input {
+		width: 100% !important;
+	}
+
+	.registration-form-content-right {
+		padding-left: 0;
+		margin-bottom: 20px;
+	}
+
+	.registration-row-inner {
+		padding: 15px;
+	}
+
+	#mobile-header-container {
+		position: fixed;
+		z-index: 999999;
+		width: 100%;
+		background-color: #ffffff;
+		height: 70px;
+	}
+
+	#mobile-menu-container {
+		position: fixed;
+		top: 60px;
+		z-index: 99999;
+		overflow: auto;
+	}
+
+	.faq-sec-row > div:first-child {
+		margin-bottom: 50px !important;
+	}
+
+	.faq-sec-row > div:nth-child(2) {
+		margin-bottom: 20px;
+	}
+
+	.faq-sec-row > div:nth-child(3) {
+		margin-top: 20px;
+	}
+
+	.btn-1 svg {
+		margin-top: -6px;
+	}
+
+	.btn-1 svg {
+		left: 13%;
+	}
+
+	.post {
+		padding: 0;
+	}
+
+	#home-post-container {
+		padding-bottom: 0;
+		padding-top: 30px;
+	}
+
+	#doctor-1 {
+		width: 100%;
+	}
+
+	.padding-left-right {
+		padding-left: 10px;
+		padding-right: 10px;
+	}
+
+	#mobile-margin {
+		margin-left: -5px;
+		margin-right: -5px;
+	}
+
+	.promo-box-left {
+		height: 70px;
+		width: 100%;
+	}
+
+	.promo-box-left img {
+		height: 125px;
+		width: 50%;
+		float: left;
+	}
+
+	.promo-box-desc {
+		margin: 0 10px;
+	}
+
+	.promo-box-sub-desc {
+		margin: 0 0 10px 10px;
+	}
+
+	.name-desi {
+		float: left;
+		width: 70%;
+	}
+
+	.promo-box-right {
+		float: left;
+		width: 100%;
+	}
+
+	.cote-desc {
+		float: left;
+		height: 145px;
+		overflow: hidden;
+		width: 100%;
+	}
+
+	.cote {
+		margin: 18px -11px -6px;
+	}
+
+	.promo-tab {
+		margin-left: -5px;
+		margin-right: -5px;
+		padding: 0;
+	}
+
+	.promo-box-mobile-width {
+		width: 50%;
+		float: left;
+		padding-right: 5px;
+	}
+
+
+	.specialist-sec-desc {
+		margin-bottom: 25px;
+	}
+
+	#home-promotional-container {
+		padding-bottom: 10px !important;
+	}
+
+	.testimony-open-mobile {
+		display: block;
+	}
+	#home-promotional-container .promotion-tab-list{
+		width: 112%;
+		margin-left: -3px;
+		margin-top: 5px;
+	}
+	.promo-box-bg{
+		height: 300px;
+	}
+	.promotion-tab-list li a{
+		font-size: 0.75em;
+		padding-right: 3px;
+	}
+	.doc-sec-text-conteiner{
+		padding: 0 25px;
+	}
+
+	.mobile-menu-wrapper{
+		margin-top: 20px;
+	}
+	.testimony-open-mobile {
+		float: right;
+		margin: 10px auto;
+		width: 100%;
+		padding: 0;
+	}
+
+	.testimony-open-mobile form {
+		float: right;
+		width: 100%;
+	}
+
+	.testimony-open-mobile form .sbHolder {
+		width: 100%;
+	}
+
+	.testimony-open-mobile form .sbHolder .sbSelector {
+		color: red;
+	}
+
+	.testimony-open-mobile form .sbOptions {
+		width: 100.5%;
+		float: left;
+		outline: none;
+		border: none;
+		border-bottom: 3px solid rgb(212, 209, 188);
+	}
+
+	.banner-caption-container h3 {
+		display: none;
+	}
+
+	.banner-caption-container h2 {
+		display: none;
+	}
+
+	.box-item {
+		padding: 9px 0;
+	}
+
+	.box-tab {
+		padding: 0 0 10px 10px;
+	}
+
+	.box-blue {
+		height: 202px;
+	}
+
+	.box-tab-right {
+		margin-top: 10px !important;
+	}
+
+	.box-form form .sbHolder {
+		width: 100%;
+	}
+
+	.box-form form .box-form-input {
+		width: 100%;
+	}
+
+	.box-form form .box-submit-btn {
+		width: 100%;
+	}
+
+
+	#query-submission {
+		margin-top: -10px !important;
+	}
+
+	#tab-box-1-yellow .next-button {
+		width: 95% !important;
+	}
+
+	#promo-box-left-physician {
+		display: none;
+	}
+
+	.promo-box-left img {
+		display: none;
+	}
+
+	#promo-box-right-physician {
+		display: none;
+	}
+
+	.physicians-mobile-left {
+		display: block;
+		width: 40%;
+		float: left;
+	}
+
+	.physicians-mobile-left .img-content {
+		background-size: cover;
+		background-repeat: no-repeat;
+		height: 200px;
+		width: 100%;
+	}
+
+	.physicians-mobile-right {
+		display: block;
+		width: 60%;
+		float: left;
+	}
+
+	.title-desi-desc-content {
+		padding: 10px;
+	}
+
+	.title-desi-desc-content h2 {
+		color: #ff5722;
+		font-size: 0.875em;
+		margin-top: 0;
+		text-transform: uppercase;
+	}
+
+	.title-desi-desc-content h4 {
+		color: #777777;
+		font-size: 0.875em;
+		font-weight: bold;
+
+	}
+
+	.title-desi-desc-content p {
+		color: #777777;
+		font-size: 0.875em;
+	}
+
+	.title-desi-desc-content .description {
+		color: #666666;
+		float: left;
+		font-size: 0.875em;
+		max-height: 60px;
+		overflow: hidden;
+	}
+
+	.title-description-physicins .inner-post-cont-title {
+		margin: 20px 10px;
+	}
+
+	.promo-box-mobile {
+		display: block;
+		background-repeat: no-repeat;
+		width: 30%;
+		height: 70px;
+		background-size: cover;
+		float: left;
+
+	}
+	.promo-box{
+		width: 100%;
+		float: left;
+		padding-right: 15px;
+	}
+	.home-testimonial-box .home-testimonial-content {
+		margin: 0 5% 2%;
+	}
+
+	.promo-box3 {
+		margin-top: 20px;
+	}
+
+	.promo-title {
+		font-size: 1em;
+		margin: 15px 0 0 15px;
+	}
+
+	.promo-sub-title {
+		font-size: 0.875em;
+		margin: 0 0 0 15px;
+	}
+
+	.promo-box2 {
+		padding-left: 5px;
+	}
+
+	.customer-options-container {
+		padding: 10px 10px 5px 10px !important;
+	}
+
+	.three-boxes-container .box-item {
+		margin-right: 10px !important;
+	}
+
+	.three-boxes-container .box-item:nth-child(3) {
+		margin-right: 0 !important;
+	}
+
+	.three-boxes-container .box-item {
+		width: calc(100% / 3 - 7px) !important;
+	}
+
+	.box-item {
+		height: 100px;
+	}
+
+	.mobile-search-input {
+		padding-right: 5px;
+	}
+
+	.mobile-submit-btn {
+		margin-right: 10px;
+	}
+
+	.language .btn-primary-d {
+		margin-right: 0;
+	}
+
+	.lan-switcher img {
+		margin-top: 2px;
+	}
+
+	.row-for-testimony {
+		margin-left: -20px;
+		margin-right: -20px;
+	}
+
+	#mobile-header-container {
+		padding-top: 5px;
+		padding-bottom: 5px;
+	}
+
+	#logo-container a img {
+		height: 45px;
+		width: 60px;
+	}
+	#open-appointment{
+		margin-top: 15px;
+	}
+	.promo-service-top {
+		border-bottom: 10px solid rgb(212, 209, 188);
+		background-color: #fe6d3e;
+	}
+
+	.promo-service-img {
+		margin-bottom: 0;
+		height: 104px;
+		width: 100px;
+	}
+	.promo-service-img{
+		margin-right: 30px;
+	}
+	.home-emergency img.phone-icon-circle{
+		display: none;
+	}
+	.home-emergency .emergency-rightsidebar p{
+		color: #fff;
+	}
+	.amb-call-number {
+		color: #ffffff;
+		font-size: 1em;
+		padding-bottom: 5px;
+	}
+	.amb-caller a{
+		color: #ffffff;
+	}
+
+	.amb-caller {
+		color: #ffffff;
+		padding: 1px 0;
+		font-size: 1em;
+	}
+
+	.coverage-text {
+		margin-bottom: 0;
+	}
+
+
+	.promo-service-middle-wrapper {
+		border-bottom: none;
+	}
+
+	.promo-service-middle {
+		padding-top: 10px;
+		padding-left: 10px;
+	}
+
+	.pattern-image-content {
+		float: left;
+	}
+
+	.home-publication-box .promo-box-left{
+		height: 147px;
+	}
+	.promo-service-bottom {
+		padding-left: 10px;
+		margin-bottom: 0;
+	}
+
+	.coverage-text {
+		font-size: 0.9em;
+	}
+
+	.specialist-sec-title {
+		margin: 15px 0;
+	}
+
+	#home-post-container {
+		padding-top: 20px;
+	}
+
+	h4.post-title {
+		padding: 0 0;
+	}
+
+	.post-ceontent {
+		margin-bottom: 14px;
+		margin-top: 10px;
+	}
+
+	.post-buttons-container {
+		margin-bottom: 0;
+	}
+
+	.post {
+		margin-bottom: 10px !important;
+		min-height: 100px;
+	}
+
+	.post-buttons-container .post-action-link {
+		padding: 7px 10px;
+		height: 27px;
+		font-size: 0.825em;
+	}
+
+	.post-link {
+		padding: 0 15px;
+	}
+
+	#home-specialist-container {
+		padding-bottom: 5px;
+	}
+
+	.sidebar-event-title {
+		color: #ff5722;
+	}
+
+	h4.widget-title {
+		margin-bottom: 15px;
+	}
+
+	/*mother & Child care page mobile version starts*/
+	.inner-customer-options-container {
+		padding: 0 10px !important;
+	}
+
+	.three-boxes-inner-container {
+		margin-top: 10px !important;
+	}
+
+	.three-boxes-inner-container .box-item {
+		/*margin-right: 10px!important;*/
+	}
+
+	#inner-banner-container {
+		margin-bottom: 5px;
+	}
+
+	.bread-crumb-list {
+		margin-left: 10px;
+	}
+
+	.bread-crumb-list li {
+		display: inline;
+	}
+
+	.bread-crumb-list li i {
+		padding-left: 10px;
+	}
+
+	.bread-crumb-list li a {
+		font-size: 0.925em;
+	}
+
+	.bread-crumb-list li.active a {
+		font-size: 1em;
+		margin-left: 5px;
+	}
+
+	#inner-post-container {
+		padding: 20px 0 0 0;
+	}
+
+	.inner-post-title-publications {
+		margin-bottom: -3px;
+	}
+
+	.full-box-right {
+		margin-left: 10px;
+		padding-right: 10px;
+		padding-top: 10px;
+	}
+
+	/*.overflow {*/
+		/*height: 200px;*/
+		/*overflow: hidden;*/
+	/*}*/
+
+	.inner-full-post-link-container {
+		margin-top: 20px;
+	}
+
+	.full-box-bg {
+		height: 265px;
+	}
+
+	.testimonial-post .full-box-right.width100{
+		margin-left: 20px;	
+	}
+
+	.testimonial-post .full-box-bg{
+		height: auto;
+	}
+	.inner-post-box {
+		margin-bottom: 20px !important;
+		padding-left: 10px !important;
+		padding-right: 10px !important;
+	}
+
+	.full-box-right h4 {
+		margin-bottom: 10px;
+	}
+
+	.newsletter-widget {
+		/*padding: 10px;*/
+	}
+
+	.sidebar-item.sidebar-promo-container {
+		margin-bottom: -20px !important;
+	}
+	.widget-newsletter-title {
+		margin-top: -10px;
+		margin-bottom: 10px;
+	}
+
+	.sidebar-item {
+		margin-bottom: 20px !important;
+	}
+	.sidebar-item #sidebar-events-container-publications{
+		margin-bottom: 40px!important;
+	}
+
+	.prmo-box-no-padding {
+		padding: 0;
+		margin-bottom: 0;
+	}
+
+	.name-desi .inner-post-title {
+		font-size: 1em;
+		margin: 15px 0 0 15px;
+	}
+
+	.name-desi .inner-post-sub-title {
+		font-size: 0.875em;
+		margin: 0 0 0 15px;
+	}
+
+	.promo-box-right .inner-post-cont-title {
+		margin: 10px 0 10px 10px;
+	}
+
+	#physicians-inner-post {
+		height: 200px;
+		margin-bottom: -10px;
+	}
+
+	.inner-post-link-container {
+		bottom: 5%;
+		right: 10px;
+	}
+
+	.inner-post-cont-title .promo-box-desc {
+		max-height: 175px !important;
+		overflow: hidden;
+	}
+
+	#inner-post-pagination-container {
+		padding: 10px 0 0;
+	}
+
+	i.pager {
+		margin: 0;
+	}
+
+	.category-list-link {
+		padding: 10px 30px;
+	}
+
+	.category-list {
+		padding: 10px 0 0 0;
+	}
+	.category-list li a{
+		margin-left: 10px;
+	}
+
+	.category-list li {
+		padding-bottom: 5px;
+		margin-bottom: 12px;
+		padding-top: 0;
+		margin-left: 20px;
+		margin-right: 20px;
+	}
+	.sidebar-doc-search-wrapper{
+		margin-bottom: 20px;
+	}
+
+	.view_mobile_sidebar {
+		display: block;
+		border-bottom: 1px solid #e9e9e9;
+		height: 70px;
+	}
+
+	.sidebar-doc-top {
+		display: none;
+	}
+
+	.background-image-doctor {
+		background-repeat: no-repeat;
+		background-size: cover;
+		display: block;
+		float: left;
+		height: 70px;
+		width: 30%;
+	}
+
+	.doc-alpha-serach-box {
+		margin-top: -20px;
+	}
+
+	.title {
+		float: left;
+		width: 70%;
+	}
+
+	.title h5 {
+		font-size: 1em;
+		margin: 15px 0 0 15px;
+	}
+
+	.sidevar-doc-body {
+		padding: 10px 10px;
+		width: 100%;
+	}
+
+	.doc-alphabet-list a {
+		width: 20px;
+	}
+
+	.doc-box-submit-btn {
+		margin-top: 0;
+		margin-bottom: 0;
+	}
+
+	.doc-serach-box form .sbOptions {
+		width: 100.5%;
+		padding: 5px;
+	}
+
+	.doc-serach-box form .sbOptions li {
+		border-bottom: 1px solid #e9e9e9;
+		padding: 0;
+	}
+
+	.doc-serach-box form .sbOptions li a {
+		padding: 5px;
+	}
+
+	.sidebar-event-inner-wrap {
+		margin-left: 15px;
+		/*padding: 10px 0 0 10px;*/
+	}
+
+	.hide-for-mobile {
+		display: none;
+	}
+
+	.display-for-mobile {
+		display: block;
+	}
+
+	.selector-tal-for-mobile {
+		margin-top: 10px;
+		margin-bottom: -10px;
+		border-top: 5px solid rgb(190, 190, 189);
+		padding-top: 10px;
+	}
+
+	/*mother & Child care page mobile version ends*/
+	/*contact us page mobile version starts*/
+	.address-part-tab .mobile-map {
+		height: 200px;
+		float: left;
+		width: 100%;
+	}
+
+	.contact-text-area {
+		height: 70px;
+		font-size: 1em;
+	}
+
+	.contact-btn {
+		margin: 10px 0;
+	}
+
+	.contact-general-page {
+		padding: 10px 10px 0 10px;
+	}
+
+	.contact-general-page hr {
+		display: none;
+	}
+
+	.contact-general-page .header2 {
+		border-top: 5px solid rgb(237, 237, 237);
+		padding-top: 15px;
+		margin-top: 0;
+	}
+
+	.contact-map-container-tab {
+		background-color: #fff;
+		display: block;
+		padding: 0 20px;
+		width: 100%;
+	}
+
+	.address-part-tab {
+		background-color: #fff;
+		display: block;
+		padding: 0;
+	}
+
+	.box-text {
+		float: left;
+		line-height: 14px;
+		margin: 0;
+		padding-left: 8px;
+		padding-right: 0;
+		text-align: left;
+		font-size: 0.75em;
+		width: 100%;
+	}
+
+	.box-item {
+		height: 80px;
+	}
+
+	#footer-bottom {
+		padding-left: 0;
+		margin-left: 0;
+	}
+
+	.design-development {
+
+	}
+
+	.promo-box-bg-publications {
+		padding: 10px 0;
+		height: 280px;
+		overflow: hidden;
+		width: 100%;
+		margin-bottom: -10px;
+	}
+
+	.promo-box-left-publications {
+		width: 40%;
+		float: left;
+	}
+
+	.promo-box-right-publications {
+		width: 60%;
+		float: left;
+		height: 200px;
+		overflow: hidden;
+	}
+
+	.promo-box-left-publications a img {
+		display: none;
+	}
+
+	.publications-left-image-content {
+		display: block;
+		background-repeat: no-repeat;
+		background-size: cover;
+		height: 200px;
+		width: 100%;
+	}
+
+	.publication-bottom-container {
+		margin-top: 20px;
+	}
+
+	.post-buttons-container-publications {
+		margin-left: 10px;
+	}
+
+	.inner-post-cont-title-publications {
+		color: #FF5722;
+		opacity: 1;
+		margin: 10px;
+	}
+
+	.promo-box-right-publications p {
+		font-size: 0.875em;
+		margin: 10px;
+	}
+
+	.promo-service-top .mobile-ambulance {
+		color: #ffffff;
+		font-size: 1em;
+		padding: 10px 0 0 0;
+		margin-bottom: 5px;
+	}
+
+	.promo-service-top .mobile-amb-no {
+		color: #ffffff;
+		font-size: 1em;
+		padding-bottom: 5px;
+	}
+
+	.inner-right-box-container {
+		margin-top: 10px;
+		padding-left: 10px !important;
+		padding-right: 10px !important;
+	}
+
+	/*contact us page mobile version ends*/
+	/*general page mobile version starts*/
+	#sidebar-general-contact-content {
+		margin-top: 20px;
+	}
+
+	.general-page img {
+		float: left !important;
+
+	}
+
+	.content img.align-right {
+		float: right;
+		margin: 10px 10px 10px 0;
+	}
+
+	.content img.align-left {
+		float: left;
+		margin: 0 10px 10px 0;
+	}
+
+	/*general page mobile version ends*/
+	/*sign-in page mobile version starts*/
+	.sign-in-page-content img {
+		height: 180px;
+	}
+
+	.sign-in-form {
+		padding: 10px 0 5px 0;
+	}
+
+	.login-btn {
+		margin-left: 0 !important;
+	}
+
+	.remember-password {
+		padding-bottom: 10px !important;
+	}
+
+	#sign-in-padding-content {
+		padding: 0 10px;
+	}
+
+	.registration-row-inner {
+		padding: 15px;
+	}
+
+	.common-classes-rg label {
+		font-size: 0.838em;
+		margin-bottom: 5px;
+		margin-top: 10px;
+		opacity: 0.6;
+	}
+
+	.regi2 #regi-agree {
+		float: left;
+		margin-right: 10px;
+	}
+
+	.regi2 p {
+		line-height: 24px;
+	}
+
+	#sign-in-padding-content .account-btn {
+		margin-top: 0 !important;
+
+	}
+
+	.inner-left-box-container-career {
+		margin-bottom: 10px;
+	}
+
+	.sign-in input {
+		width: 100%;
+	}
+
+	/*sign-in page mobile version ends*/
+	/*patients & visitors page mobile version starts*/
+	.patients-visitors-page {
+		padding: 10px 0 0 10px;
+		width: 100%;
+		float: left;
+		background-color: #FFFFFF;
+		margin-bottom: -10px;
+	}
+
+	.patients-photos img {
+		margin-bottom: 20px;
+	}
+
+	.full-view-text {
+		width: 100%;
+		float: left;
+		padding: 10px 10px 10px 5px;
+	}
+
+	.full-view-text img {
+		width: 50%;
+		height: auto;
+		float: left;
+		margin: 0 10px 10px 0;
+	}
+
+	.patients-paragraph h2 {
+		font-size: 1em;
+	}
+
+	.full-view-text p {
+		line-height: 16px;
+		color: #666666;
+		font-size: 1em;
+		font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+	}
+
+	.full-view-text .strong {
+		font-size: 1em;
+		text-transform: uppercase;
+	}
+
+	.list-inline-patients li {
+		font-size: 1em;
+		color: #666666;
+		list-style: none;
+
+	}
+
+	.sidebar-doctor {
+		float: left;
+		margin-top: -5px;
+	}
+
+	#related-consultant {
+		margin-bottom: 45px !important;
+	}
+
+	/*patients & visitors page mobile version ends*/
+	/*search result starts*/
+	.inner-left-box-container.padding-left-15{
+		padding-left: 15px;
+	}
+	/*search result ends*/
+}
+@media only screen and (min-width : 481px) and (max-width : 990px){
+
+	.post_container_design .image_leftside_bar{
+		display: none;
+	}
+	.post_content_right_bar{
+		width: 100%!important;
+		padding: 0px 15px;
+	}
+	.post_container_design{
+		height: 240px;
+	}
+
+
+	.home-testimonial-box .home-testimonial-content{
+		margin-top: 2%;
+	}
+
+	.home-consultants-box{
+		width: 33.3%;
+	}
+	.home-testimonial-box{
+		height: auto;
+		margin-bottom: 20px;
+	}
+	a.home-testimonial{		
+		right: 0;
+		left: inherit;
+	}
+	a.home-testimonial.home-whats-happening{		
+		right: inherit;
+		left: 185px;
+	}
+	#mobile-header-container {
+		background-color: #ffffff;
+		height: 90px;
+		position: fixed;
+		width: 100%;
+		z-index: 999999;
+	}
+	#mobile-menu-container {
+		position: fixed;
+		top: 60px;
+		z-index: 99999;
+		overflow: auto;
+	}
+	.three-box-tab-container {
+		margin-left: 12%;
+		width: 76%;
+		margin-top: 15px;
+		height: auto;
+	}
+	.three-box-tab-container .box-blue{
+		width: 100%;
+		float: left;
+	}
+	.box-tab-left {
+		float: left;
+		width: 100%;
+		margin-top: 15px;
+	}
+	#box-tab-1{
+		height: 218px;
+	}
+	#box-tab-2{
+		width: 100%;
+		height: 262px;
+	}
+	#box-tab-3{
+		height: 295px;
+	}
+
+	.box-tab-appointment-left {
+		float: left;
+		width: 100%;
+		padding-right: 20px;
+	}
+	.second-appointment input{
+		width: 100%;
+	}
+	#box-tab-1 .sbHolder{
+		width: 100%;
+	}
+	#box-tab-1 .box-form-input{
+		width: 100%;
+	}
+	#box-tab-1 .box-submit-btn{
+		width: 100%;
+	}
+	#box-tab-2 .sbHolder{
+		width: 100%;
+	}
+	#box-tab-2 .box-form-input{
+		width: 100%;
+	}
+	#box-tab-2 .box-submit-btn{
+		width: 100%;
+	}
+	.three-box-tab-container .box-pest{
+		width: 100%;
+	}
+	.box-tab-3-left{
+		width: 100%;
+		float: left;
+	}
+
+	.submit-query-content{
+		width: 100%;
+	}
+	.submit-query-content{
+		width: 100%;
+		float: left;
+	}
+	.right-query{
+		width: 100%;
+		float: left;
+	}
+	.left-query{
+		width: 100%;
+		float: left;
+	}
+	.submit-query-content .left-query input{
+		width: 100%;
+	}
+	input.form-control.schedule-date{
+		width: 100%;
+	}
+	.three-box-tab-container #box-tab-2.box-yellow{
+		height: 580px;
+	}
+	.submit-schedule-doctor-button{
+		width:100%;
+		float:left;
+	}
+	.right-query input{
+		width: 100%;
+	}
+	.right-query #comment{
+		width: 100%;
+	}
+	.second-appointment textarea.schedule-patient-message{
+		width: 100%;
+	}
+	.box-form label{
+		margin-top: 5px;
+		margin-bottom: 5px;
+	}
+	.left-query input{
+		height: 30px;
+	}
+	.right-query input{
+		height: 30px;
+	}
+	.right-query #comment{
+		height: 30px;
+	}
+	.submit-query-content a{
+		width: 100%;
+	}
+	.btn-default-submit{
+		height: 30px;
+		width: 100%;
+	}
+	#query-submission{
+		margin-top: -7px;
+	}
+	.right-query label{
+		margin-left: 0;
+	}
+	.left-appointment{
+		width: 100%;
+
+	}
+	.second-appointment{
+		width: 100%;
+		margin-top: -24px;
+		padding-bottom: 0;
+		margin-bottom: -10px;
+	}
+	#open-appointment{
+		height: 30px;
+		margin-top: 7px;
+	}
+}
+
+@media only screen and (min-width : 481px) and (max-width : 799px){
+
+
+.regi2{
+	display: block;
+}
+
+.post_container_design .image_leftside_bar{
+		display: none;
+	}
+	.post_content_right_bar{
+		width: 100%!important;
+		padding: 0px 15px;
+	}
+	.post_container_design{
+		height: 240px;
+	}
+
+.home-consultants-box .consultants-image{
+	height: 215px;
+}
+	.regi{
+		display: none;
+	}
+	.registration-form-content-right{
+		padding-left: 0;
+		margin-bottom: 20px;
+	}
+
+	.search_slider {
+		margin-top: 90px;
+	}
+	#home-promotional-container .promotion-tab-list{
+		width: 105%;
+	}
+	.promotion-tab-list li a{
+		padding-right: 20px;
+		padding-left: 10px;
+	}
+}
+@media only screen and (min-width : 320px) and (max-width : 1000px){
+
+	.post_container_design .image_leftside_bar{
+		display: none;
+	}
+	.post_content_right_bar{
+		width: 100%!important;
+		padding: 0px 15px;
+	}
+	.post_container_design{
+		height: 240px;
+	}
+
+	.address-part-tab{
+		display: block;
+	}
+	.contact-map-container-tab{
+		display: block;
+	}
+	.promo-box-bg.home-emergency{
+		float: left;
+		width: 100%;
+	}
+	.inner-sidetab-opener-blue{
+		/*width: 100%;*/
+	}
+}
+@media only screen and (min-width : 320px) and (max-width : 800px){
+	.post-ceontent p {
+		font-size: 0.875em;
+	}
+	.banner-image-container{
+		height: auto;
+	}
+	.promo-box-desc{
+		font-size: 0.875em;
+	}
+	.specialist-sec-desc{
+		font-size: 0.875em;
+	}
+	.promo-box-desc2{
+		font-size: 0.875em;
+	}
+	.full-box-right h4 {
+		font-size: 1em;
+	}
+	.post_container_design .image_leftside_bar{
+		display: none;
+	}
+	.post_content_right_bar{
+		width: 100%!important;
+		padding: 0px 15px;
+	}
+	.post_container_design{
+		height: 240px;
+	}
+
+	.bottomfixed{
+		bottom: 5px;
+	}
+
+}
+@media only screen and (min-width : 320px) and (max-width : 1020px){
+	.sidebar-item {
+		margin-bottom: 35px;
+	}
+	.for-childcare {
+		margin-top: -40px;
+	}
+	#home-promotional-container{
+		padding-bottom: 35px;
+	}
+	.inner-post-link-container-publications .inner-post-details-link{
+		right: -7px;
+	}
+	.sign-in-row{
+		margin: 0;
+	}
+	.registration-row{
+		margin: 0;
+	}
+	.post_container_design .image_leftside_bar{
+		display: none;
+	}
+	.post_content_right_bar{
+		width: 100%!important;
+		padding: 0px 15px;
+	}
+	.post_container_design{
+		height: 270px;
+	}
+	.post_container_design.gallery {
+	    height: 380px;
+	}
+}
+
+
+@media only screen and (min-width : 361px) and (max-width : 400px){
+	.inner-post-sub-title-publications{
+		left: 29%;
+	}
+	
+}
+@media only screen and (min-width : 401px) and (max-width : 440px){
+	.inner-post-sub-title-publications{
+		left: 25%;
+	}
+}
+@media only screen and (min-width : 441px) and (max-width : 480px){
+	.inner-post-sub-title-publications{
+		left: 22%;
+	}
+}
+@media only screen and (min-width : 480px) and (max-width : 768px){
+	.general-page ul li{
+		font-size: 0.85em;
+	}
+	.content p{
+		font-size: 0.85em;
+	}
+	.sidebar-item p{
+		font-size: 0.85em;
+	}
+	.sidebar-item .amb-caller {
+		font-size: 1em;
+	}
+	.sidebar-item p {
+		font-size: 0.875em;
+	}
+	h4.widget-title {
+		font-size: 1em;
+	}
+	.sidebar-has-let-bar-wrap h6 {
+		font-size: 1em;
+	}
+	.common-btn {
+		font-size: 1em;
+	}
+
+}
+@media only screen and (min-width : 650px) and (max-width : 768px){
+	.patients-photos{
+		width: 200px;
+		box-shadow: none;
+	}
+	.patients-paragraph {
+		width: calc(100% - 200px);
+	}
+	.patients-photos .last-image{
+		margin-bottom: 0;
+	}
+
+	.mob-orange-bg{
+		width: 105%;
+	}
+}
+@media only screen and (min-width : 480px) and (max-width : 650px){
+	.patients-photos{
+		width: 200px;
+		box-shadow: none;
+	}
+	.patients-paragraph {
+		width: calc(100% - 200px);
+	}
+	.patients-photos img {
+		margin-bottom: 45px;
+	}
+	#layerslider{
+		height: 250px;
+	}
+	#slider-wrapper{
+		height: 250px;
+	}
+	#layerslider .ls-slide h1.ls-l {
+		text-transform: uppercase;
+		top: 60%;
+		left: -10%;
+		font-size: 10px;
+	}
+
+	#layerslider .ls-slide .ls-l {
+		top: 65%;
+		left: -10%;
+		font-size: 15px;
+	}
+	#pjax_home_consultants_index> div:nth-child(4){
+		display: none;
+	}
+	#pjax_home_consultants_index> div:nth-child(5){
+		display: none;
+	}
+}
+@media only screen and (min-width : 650px) and (max-width : 800px){
+	#layerslider{
+		height: 300px;
+	}
+	#slider-wrapper{
+		height: 300px;
+	}
+	#layerslider .ls-slide h1.ls-l {
+		text-transform: uppercase;
+		top: 60%;
+		left: 20%;
+		font-size: 16px;
+	}
+
+	#layerslider .ls-slide .ls-l {
+		top: 65%;
+		left: 20%;
+		font-size: 20px;
+	}
+	#pjax_home_consultants_index> div:nth-child(4){
+		display: none;
+	}
+	#pjax_home_consultants_index> div:nth-child(5){
+		display: none;
+	}
+	#mobile-menu-container{
+		margin-top: 30px;
+	}
+}
+@media only screen and (min-width : 766px) and (max-width : 990px){
+	#inner-post-pagination-container{
+		padding: 0;
+	}
+	.category-list-link {
+		padding: 15px 40px;
+	}
+	.inner-right-box-container {
+		margin-top: -15px;
+	}
+	.sidebar-item {
+		margin-bottom: 10px;
+	}
+	.sidevar-doc-body {
+		padding: 0;
+		width: 80%;
+	}
+	.doc-box-form-input {
+		margin-bottom: 10px;
+		padding: 8px 8px;
+		width: 100%;
+	}
+	.doc-box-submit-btn{
+		margin-top: 3px;
+	}
+	/*#sidebar-events-container-publications{*/
+		/*width: 48%;*/
+		/*float: right;*/
+	/*}*/
+
+	#sidebar-events-container-publications{
+		margin-bottom: 35px;
+		margin-top: 20px;
+	}
+	.sidebar-doc-search-wrapper{
+		width: 97%;
+	}
+	#inner-post-container{
+		padding-bottom: 10px;
+		padding-top: 20px;
+	}
+	#sidebar-general-contact-content-childcare{
+		width: 49%;
+	}
+	#sidebar-general-contact-content-childcare-right{
+		width: 49%;
+		/*float: right;*/
+	}
+	.sidebar-has-let-bar{
+		width: 49%;
+		float: right;
+	}
+	#sidebar-general-contact-content-childcare-right .coverage-text{
+		margin-bottom: 0;
+	}
+	
+	#general-responsive{
+		width: 49%;
+		float: left;
+	}
+	#sidebar-general-contact-content {
+		margin-top: 0;
+	}
+	.promo-service-img{
+		margin-bottom: 0;
+	}
+	.promo-service-middle{
+		padding: 10px 15px 5px;
+	}
+	.coverage-text{
+		margin-bottom: 15px;
+	}
+	
+	#related-consultant .sidebar-has-let-bar-wrap{
+		width: 100%;
+	}
+	#related-consultant {
+		margin-bottom: 20px;
+	}
+	#sidebar-consultant{
+		width: 98%!important;
+	}
+	.address-part-tab .mobile-map {
+		float: left;
+		height: 300px;
+		width: 100%;
+	}
+	.contact-text-area{
+		height: 80px;
+	}
+	.contact-btn {
+		margin: 10px auto;
+	}
+	#only_sign-in{
+		margin-top: 20px;
+	}
+	.registration-row{
+		margin-top: 20px;
+	}
+	.doc-box-submit-btn {
+		margin-top: 10px!important;
+		margin-bottom: 30px!important;
+	}
+	.sidebar-item #sidebar-events-container-publications{
+		margin-top: 20px;
+	}
+	}
+@media only screen and (min-width : 481px) and (max-width : 765px){
+	#mobile-menu-container{
+		margin-top: 29px;
+	}
+	#inner-post-container{
+		padding-bottom: 5px;
+		padding-top: 25px;
+	}
+	.sidebar-item #sidebar-events-container-publications{
+		margin-top: 20px;
+	}
+	#sidebar-general-contact-content-childcare {
+		width: 49%;
+		float: left;
+		margin-bottom: 20px;
+	}
+	#sidebar-general-contact-content-childcare-right {
+		width: 49%;
+		float: right;
+		margin-bottom: 20px;
+	}
+	.promo-service-img{
+		margin-right: 5px;
+	}
+	
+	.coverage-text{
+		margin-bottom: 15px;
+	}
+	.newsletter-widget{
+		height: 309px;
+	}
+	.widget-newsletter-title{
+		margin-top: 0;
+	}
+	.promo-service-middle {
+		padding: 10px 15px 5px;
+	}
+	.sidebar-doc-search-wrapper {
+		width: 97%;
+	}
+	.sidevar-doc-body {
+		padding: 0;
+		width: 80%;
+	}
+	.doc-box-submit-btn {
+		margin-bottom: 30px !important;
+		margin-top: 10px !important;
+	}
+	#sidebar-general-contact-content {
+		margin-top: 0;
+		width: 49%;
+		float: right;
+		margin-bottom: 20px;
+	}
+	#general-responsive{
+		width: 49%;
+		float: left;
+		margin-bottom: 20px;
+	}
+	.coverage-text {
+		margin-bottom: 5px;
+	}
+	
+	.contact-text-area{
+		height: 70px;
+	}
+	.contact-btn {
+		margin: 8px auto;
+	}
+	.address-part-tab .mobile-map {
+		float: left;
+		height: 300px;
+		width: 100%;
+	}
+
+
+}
+@media only screen and (min-width : 800px) and (max-width : 1024px){
+	#mobile-menu-container{
+		margin-top: 35px;
+	}
+
+	#pjax_home_consultants_index> div:nth-child(4){
+		display: none;
+	}
+	#pjax_home_consultants_index> div:nth-child(5){
+		display: none;
+	}
+	.search_slider {
+		margin-top: 95px;
+	}
+	#layerslider{
+		height: 350px;
+	}
+	#slider-wrapper{
+		height: 350px;
+	}
+	#mobile-menu-container {
+		position: fixed;
+		top: 60px;
+		z-index: 99999;
+		overflow: auto;
+	}
+	#mobile-header-container {
+		background-color: #ffffff;
+		height: 95px;
+		position: fixed;
+		width: 100%;
+		z-index: 999999;
+	}
+	#layerslider .ls-slide h1.ls-l {
+		text-transform: uppercase;
+		top: 60%;
+		left: 36%;
+		font-size: 16px;
+	}
+
+	#layerslider .ls-slide .ls-l {
+		top: 65%;
+		left: 36%;
+		font-size: 20px;
+	}
+}
+@media only screen and (min-width : 320px) and (max-width : 640px){
+
+	.submit-query-content{
+		float: left;
+		width: 97%;
+	}
+	.left-query {
+		float: left;
+		width: 100%;
+	}
+	.right-query{
+		float: left;
+		width: 100%;
+	}
+	.left-query input{
+		width: 100%;
+	}
+	.btn-default-submit{
+		width: 100%;
+		margin-top: 15px;
+	}
+	.right-query #comment{
+		width: 100%;
+		margin-top: 10px;
+	}
+	#recaptcha_response_field-query{
+		width: 100%;
+	}
+	#query-submission {
+		margin-bottom: 15px;
+	}
+	.btn-primary-date{
+		width: 100%;
+	}
+	.left-appointment{
+		width: 100%;
+		float: left;
+	}
+	.second-appointment{
+		width: 100%;
+		float: left;
+	}
+	/*#box-tab-2{*/
+		/*height: 400px;*/
+	/*}*/
+	.box-tab-appointment-left {
+		float: left;
+		width: 97%;
+	}
+	.second-appointment input{
+		width: 100%;
+	}
+	#recaptcha_image-query{
+		width: 100%;
+	}
+.inner-post-box-career{
+	width: 100%;
+	float: left;
+}
+	.remember-password-container{
+		padding-top: 0;
+	}
+
+
+}
+@media only screen and (min-width : 480px) and (max-width : 640px) {
+	body{
+		font-size: 12px;
+	}
+	
+	.promo-box-left-publications{
+		width: 220px;
+	}
+	.promo-box-right-publications {
+		height: 210px;
+		overflow: hidden;
+		width: calc(100% - 220px);
+	}
+
+}
+
+@media only screen and (min-width : 640px) and (max-width : 768px) {
+	body{
+		font-size: 13px;
+	}
+	.home-testimonial-box.testimonial-box{
+		height: auto;
+		margin-bottom: 20px;
+	}
+	
+	.inner-post-sub-title-publications{
+		left: 31%;
+	}
+	.remember-password-container{
+		float: right;
+		margin-right: 50px;
+	}
+}
+
+@media only screen and (min-width : 768px) and (max-width : 1023px) {
+	body{
+		font-size: 14px;
+	}
+	.main-menu-list li a{
+		padding: 0 10px;
+	}
+	.patients-photos .last-image{
+		margin-bottom: 0;
+	}
+	.patients-photos {
+		box-shadow: none;
+	}
+	.inner-post-sub-title-publications{
+		left: 29%;
+	}
+
+}
+
+@media only screen and (max-width : 640px) {
+	.post_container_design.gallery {
+	    height: 330px;
+	}
+	.three-box-tab-container .alphabet{
+		height: 20px;
+		width: 20px;
+	}
+	.box-tab-left{
+		width: 100%;
+		float: left;
+	}
+	.box-tab-right{
+		margin-left: 0;
+		width: 100%;
+		margin-top: 20px;
+	}
+	.box-select{
+		width: 95%;
+		margin-bottom: 5px;
+	}
+	.box-form-input{
+		margin-bottom: 10px;
+	}
+	.box-submit-btn{
+		width: 95%;
+	}
+	.promotion-tab-list li{
+		border:none;
+		/*display: list-item;*/
+	}
+	/*.promotion-tab-list li a{*/
+		/*padding: 15px;*/
+	/*}*/
+}
+
+@media only screen and (max-width : 768px) {
+	.inner-customer-options-container{
+		padding: 0 15px;
+	}
+}
+
+@media only screen and (max-width : 990px) {
+	.inner-post-wrap-container{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.inner-post-box{
+		padding-left: 15px;
+    	padding-right: 15px;
+    	margin-bottom: 30px;
+	}
+	.inner-left-box-container{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.inner-right-box-container{
+		padding-left: 0;
+		padding-right: 0;
+	}
+	.sidebar{
+		margin-left: 0;
+		margin-right: 0;
+	}
+	#inner-post-pagination-container{
+		margin-right: 0;
+		margin-left: 0;
+	}
+}
+
+@media (max-width: 480px){
+	.post_container_design .post_content_description{
+		font-size: 12px;
+	}
+	.post_container_design .post_content_right_bar.width100 p{
+		font-size: 12px;
+	}
+
+	.post_container_design.gallery {
+	    height: 290px;
+	}
+}
+@media (max-width: 360px) {
+	.inner-post-sub-title-publications{
+		left: 32%;
+	}
+
+	.post_container_design .post_content_description{
+		font-size: 12px;
+	}
+	.post_container_design .post_content_right_bar.width100 p{
+		font-size: 12px;
+	}
+
+	.post_container_design.gallery {
+	    height: 250px;
+	}
+}
+
+/*@media only screen and (min-width : 768px) and (max-width : 1024px) {
+	
+}*/
+@media only screen and (min-width : 992px) and (max-width : 1199px){
+	.promo-service-img{
+		margin-right: 5px;
+	}
+	.promo-service-img{
+		font-size: 12px;
+	}
+	.amb-call-ambulance{
+		font-size: 10px;
+	}
+	.emergency-rightsidebar .amb-call-number{
+		font-size: 13px;
+	}
+	.emergency-rightsidebar .amb-call-number {
+		margin: 0 0 0 14px;
+	}
+
+}
+@media only screen and (min-width : 1024px) and (max-width : 1199px) {
+
+	.mega-menu .menu-logo > li > a{
+		padding: 0 5px!important;
+	}
+	.mega-menu .menu-links > li > a{
+		padding: 10px!important;
+	}
+	body{
+		font-size: 15px;
+	}
+
+	#layerslider .ls-slide h1.ls-l {
+		text-transform: uppercase;
+		top: 60%;
+		left: 45%;
+		font-size: 16px;
+	}
+
+	#layerslider .ls-slide .ls-l {
+		top: 65%;
+		left: 45%;
+		font-size: 20px;
+	}
+
+	.main-menu-list li a{
+		padding: 0 10px;
+	}
+
+	.two-res-box{
+		/*width: 100px;*/
+		font-size: 12px;
+	}
+	.two-res-box .box-item{
+		height: 95px;
+		padding: 0;
+	}
+	.two-res-box .box-icon{
+		height: 55px;
+   		 width: 55px;
+	}
+	.inner-three-box-tab-container{
+		height: 200px;
+	}
+	.inner-three-box-tab-container .box-select{
+		margin-bottom: 10px;
+	}
+	.inner-three-box-tab-container .box-form-input{
+		margin-bottom: 10px;
+	}
+	.inner-post-sub-title-publications{
+		left: 32%;
+	}
+	.registration-btn{
+		margin-left: 0;
+		float: right;
+	}
+}
+
+
+/*for mobile starts*/
+@media only screen and (min-width : 1024px) and (max-width : 1920px) {
+	.desktop-menu{
+		display: block;
+	}
+	.mobile-menu{
+		display: none;
+	}
+	.menu-top-right-wrapper{
+		display: block;
+	}
+	.mobile-search{
+		display: none;
+	}
+	.hide-above-1024{
+		display: none!important;
+	}
+}
+@media only screen and (min-width : 725px) and (max-width : 1023px){
+	.login-btn{
+		margin-left: -15px;
+	}
+	.registration-btn{
+		margin-right:12%;
+		float: right;
+	}
+}
+@media only screen and (min-width : 640px) and (max-width : 724px){
+	.login-btn{
+		margin-left: -15px;
+	}
+	.registration-btn{
+		margin-right:4%;
+		float: right;
+		margin-left: 0;
+	}
+}
+@media only screen and (min-width : 540px) and (max-width : 639px){
+	.login-btn{
+		margin-left: -17px;
+		min-width: 50px;
+	}
+	.registration-btn{
+		margin-right:41%;
+		float: right;
+		min-width: 100px;
+	}
+}
+@media only screen and (min-width : 380px) and (max-width : 539px){
+	.login-btn{
+		margin-left: -17px;
+		min-width: 70px;
+	}
+	.registration-btn{
+		float: right;
+		margin-right: 50%;
+		min-width: 101px;
+		margin-left: 0;
+	}
+}
+@media only screen and (min-width : 320px) and (max-width : 379px){
+	.login-btn{
+		margin-left: -17px;
+		min-width: 70px;
+	}
+	.registration-btn{
+		float: right;
+		margin-right: 9%;
+		min-width: 101px;
+		margin-left: 0;
+	}
+}
+@media only screen and (min-width : 10px) and (max-width : 1023px) {
+	.back-color{
+		display: none;
+	}
+	.hide-on-1024{
+		display: none;
+	}
+	.show-on-1024{
+		display: block;
+	}
+	.desktop-menu{
+		display: none;
+	}
+
+	/*customer home option starts*/
+	.customer-options-container{
+		display: inline-block;
+	    left: 0;
+	    padding: 15px;
+	    position: relative;
+	    top: 0;
+	    width: 100%;
+	}
+	.three-boxes-container{
+		width: 100%;
+	}
+	.three-boxes-container .box-item{
+		width: -webkit-calc(100%/3 - 10px);
+	    width: -moz-calc(100%/3 - 10px);
+	    width: calc(100%/3 - 10px);
+
+	    float: left;
+	    margin-right: 15px;
+	    margin-bottom: 0;
+	}
+	.three-boxes-container .box-item:first-child{
+
+	}
+	.three-boxes-container .box-item:last-child{
+		margin-right: 0;
+	}
+	/*.three-box-tab-container{*/
+		/*margin-left: 0;*/
+		/*margin-top: 15px;*/
+		/*width: 100%;*/
+	/*}*/
+
+	/*customer home option ends*/
+
+	/*inner top banner starts*/
+	.banner-image-container{
+		width: 100%;
+	}
+	.inner-customer-options-container{
+		position: relative;
+		/*padding: 15px;*/
+		display: inline-block;
+		width: 100%;
+	}
+	.three-boxes-inner-container{
+		width: 100%;
+		margin-top: 15px;
+	}
+	.three-boxes-inner-container .box-item{
+		width: -webkit-calc(100%/2 - 7.5px);
+	    width: -moz-calc(100%/2 - 7.5px);
+	    width: calc(100%/2 - 7.5px);
+
+	    float: left;
+	    margin-right: 15px;
+	    margin-bottom: 0;
+	}
+	.three-boxes-inner-container .box-item:last-child{
+		margin-right: 0;
+	}
+	/*inner top banner ends*/
+
+
+}
+/*for mobile ends*/
+
+/*home search tab starts*/
+@media only screen and (min-width : 1024px) and (max-width : 1240px) {
+	/*.three-res-box{*/
+		/*width: 100px;*/
+		/*font-size: 12px;*/
+	/*}*/
+	/*.three-res-box .box-item{*/
+		/*height: 90px;*/
+		/*padding: 0;*/
+	/*}*/
+	/*.three-res-box .box-icon{*/
+		/*height: 55px;*/
+   		 /*width: 55px;*/
+	/*}*/
+	.btn-primary-date{
+		margin-bottom: 10px;
+	}
+	.box-tab {
+		padding: 15px 0 0 20px;
+		height: 247px;
+	}
+	.box-select {
+		margin-bottom: 0;
+	}
+	.btn-default-submit {
+		/*font-size: 0.83em;*/
+	}
+	.btn-primary-date{
+		font-size: 0.83em;
+	}
+	.hvr-sweep-to-top:before{
+		width: 93%;
+	}
+}
+/*hoe search tab ends*/
+@media only screen and (min-width : 1240px) and (max-width : 1920px){
+	.hvr-sweep-to-top:before{
+		width: 93%;
+	}
+}
+@media (max-width: 1020px){
+
+	.faq-sec-row >div:first-child{
+		margin-bottom: 20px;
+	}
+}
+@media (max-width: 320px){
+	.banner-caption-container{
+		display: none;
+	}
+}
+@media only screen and (min-width : 990px) and (max-width : 1200px){
+
+	.overflow {
+		height: 240px;
+		overflow: hidden;
+	}
+	.promo-box-desc{
+		max-height: 145px;
+	}
+
+}
+@media only screen and (min-width : 990px) and (max-width : 1024px){
+
+
+	.inner-sidetab-opener-blue{
+		margin-top: 20px;
+	}
+	.inner-sidetab-opener-blue{
+		width: 76%;
+		margin-left: 12%;
+	}
+	/*.inner-sidetab-opener-blue #box-tab-1{*/
+		/*width: 100%;*/
+	/*}*/
+	.inner-sidetab-opener-blue .three-box-tab-container .box-blue{
+		margin-left: 0;
+		width: 100%;
+	}
+	.three-box-tab-container{
+		height: auto;
+	}
+	.three-box-tab-container #box-tab-2.box-yellow{
+		height: 600px;
+	}
+	.three-box-tab-container .box-pest{
+		margin-left: 23%;
+		margin-top: 20px;
+	}
+	.three-box-tab-container #box-tab-2.box-yellow{
+		height: 355px;
+		margin-left: 18%;
+		margin-top: 20px;
+	}
+	.inner-three-box-tab-container #box-tab-2.box-yellow{
+		height: 355px;
+		margin-left: 0%;
+		margin-top: 0;
+	}
+	.inner-sidetab-opener-orange{
+		margin-left: 12%;
+	}
+	.left-appointment{
+		margin-top: -13px;
+	}
+	.second-appointment{
+		margin-top: -18px;
+	}
+
+	.three-box-tab-container{
+		width: 100%;
+	}
+	.three-box-tab-container .box-blue{
+		margin-top: 20px;
+		margin-left: 12%;
+		width: 76%;
+	}
+	#box-tab-1 {
+		height: 222px;
+	}
+	.box-tab-left{
+		width: 100%;
+	}
+	.box-tab-left .sbHolder{
+		width: 100%;
+	}
+	.box-form-input{
+		width: 100%;
+	}
+	.box-submit-btn{
+		width: 100%;
+	}
+	.left-query{
+		width: 100%;
+		margin-top: -15px;
+	}
+	.right-query{
+		width: 100%;
+		float: left;
+	}
+	.left-query input{
+		width: 100%;
+	}
+	.right-query input{
+		width: 100%;
+	}
+	.right-query #comment{
+		width: 100%;
+	}
+   #box-tab-3{
+	   height: 385px;
+   }
+	.right-query label{
+		margin-left: 0;
+	}
+	.submit-query-content a{
+		margin-top: -25px;
+		width: 100%;
+	}
+	.btn-default-submit{
+		width: 100%;
+	}
+	.submit-schedule-doctor-button{
+		width:42%;
+		float:left;
+	}
+
+}
+@media only screen and (min-width : 480px) and (max-width : 1020px){
+  .faq-sec-row {
+	padding-top: 10%;
+	}
+
+
+}
+
+
+@media only screen and (min-width : 1200px) and (max-width : 1820px){
+
+	.inner-sidetab-opener-blue {
+		background-color: #3f51b5;
+		/*height: 248px;*/
+		float: left;
+	}
+	.inner-sidetab-opener-orange{
+		background-color: #fec107;
+		height: 248px;
+		float: left;
+	}
+	.blue-box-inner {
+		padding: 10px 0 0 20px;
+	}
+	.orange-box-inner{
+		padding: 0 0 0 20px;
+
+	}
+	/*.three-box-tab-container #box-tab-2.orange-box-inner{*/
+		/*height: 320px;*/
+	/*}*/
+	.slick-slide img {
+		height: 490px;
+	}
+
+	.search_slider{
+		display: none;
+	}
+}
+
+@media only screen and (min-width : 1024px) and (max-width : 1200px){
+	.inner-sidetab-opener-blue {
+		background-color: #3f51b5;
+		height: 199px;
+		float: left;
+	}
+	.inner-sidetab-opener-orange{
+		background-color: #fec107;
+		height: 199px;
+		float: left;
+	}
+	.slick-slide img {
+		height: 490px;
+	}
+
+	.search_slider{
+		display: none;
+	}
+}
