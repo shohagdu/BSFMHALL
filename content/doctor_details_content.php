@@ -41,13 +41,6 @@
                                     <div style="font-size:14px;color:#333;"><?php echo
                                         $doctor_details_info['degree_details']
                                         ?></div>
-                                    <div style="font-size:14px;color:#333;margin-top:10px;"> <?php echo
-                                        $doctor_details_info['speciality_title']
-                                        ?> </div>
-                                    <div style="font-size:14px;padding-top: 10px;"> <?php echo
-                                        !empty($doctor_details_info['visiting_info']) ? "<b>Visiting Hours:</b> "
-                                            . $doctor_details_info['visiting_info'] : ''
-                                        ?> </div>
 
                                 </div>
                                 <?php

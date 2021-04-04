@@ -14,6 +14,9 @@
                                     <th >Name</th>
                                     <th class="width30per">Duration</th>
                                 </tr>
+                                <tr>
+                                    <td colspan="4" class="text-center">No Record Found</td>
+                                </tr>
                             </table>
                         </div>
                     </div>

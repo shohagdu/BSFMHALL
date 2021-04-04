@@ -17,12 +17,12 @@
                                     while ($doctor = mysqli_fetch_assoc($result)) {
                                         ?>
                                         <div class="col-sm-6 col-xs-6 col-md-6"  >
-                                            <div class="col-sm-12" style="background: #eee;margin-bottom: 20px;">
+                                            <div class="col-sm-12" style="background: #eee;margin-bottom: 20px;height: 350px;">
                                                 <a data-pjax="false" href="doctor_details.php?doctor_id=<?php echo $doctor['employee_id']
                                                 ?>&name=<?php
                                                 echo str_replace
                                                 (' ', '-', $doctor['emp_name'])?>">
-                                                    <div style="margin-top: 15px;" >
+                                                    <div style="margin-top: 15px;text-align: center" >
                                                         <?php
                                                         if(file_exists("medilife_admin/images/employee_image/".$doctor['image']) && !empty($doctor['image'])){
                                                             ?>
@@ -32,35 +32,24 @@
                                                         <?php } ?>
                                                     </div>
                                                     <div class="consultants-text-container">
-                                                        <div style="padding-bottom:5px;color:#333;padding-top: 20px;font-weight: bold;
+                                                        <div style="padding-bottom:5px;color:#333;padding-top: 20px;font-weight: bold;text-align: center;
 "><?php
                                                             echo
                                                             $doctor['emp_name']
                                                             ?></div>
-                                                        <div style="font-size:14px;color:#333;"><?php echo
+                                                        <div style="font-size:14px;color:#333;text-align: center;"><?php echo
                                                             $doctor['degree_details']
                                                             ?></div>
-                                                        <?php
-                                                        if(!empty($doctor['visiting_info'])){
-                                                            ?>
-                                                            <div style="font-size:12px;padding-top: 10px;color:#333">
-                                                                <b>Visiting Hours:</b>
-                                                                <div class="clearfix"></div>
-                                                                <?php echo
-                                                                !empty($doctor['visiting_info'])?$doctor['visiting_info']:''
-                                                                ?>
-                                                            </div>
-                                                        <?php } ?>
+
 
                                                     </div>
 
                                                 </a>
                                                 <div class="col-lg-offset-3 col-sm-4 " style="padding-bottom: 10px;">
-                                                <a class="btn btn-primary btn-xs text-center"
+                                                <a class="btn btn-info text-center"
                                                    href="doctor_details.php?doctor_id=<?php echo
                                                    $doctor['employee_id'] ?>&name=<?php echo
-                                                   str_replace(' ', '-', $doctor['emp_name'])?>" style="margin-top:10px;"><i
-                                                            class="glyphicon    glyphicon-share-alt"></i>   Institutional Profile</a>
+                                                   str_replace(' ', '-', $doctor['emp_name'])?>" style="margin-top:10px;"><i class="glyphicon    glyphicon-share-alt"></i>    Profile</a>
                                                 </div>
                                             </div>
                                         </div>
